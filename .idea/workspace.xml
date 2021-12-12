@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="947141e6-8d77-42b9-b288-37cf544487be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/co.com.choucair.certification.utest.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/tasks/Fill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/tasks/Fill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/userinterface/FillFormPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/userinterface/FillFormPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/runners/RunnerTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/runners/RunnerTags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/co_com_choucair_certification_utest$All_in_co_com_choucair_certification_utest_test.ic" NAME="All in co.com.choucair.certification.utest_test Coverage Results" MODIFIED="1639330097163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/features/utest.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestJoingPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp2.java" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1349" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectId" id="22BucDFaLHW4tuZJgnRg9FxwdVS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639346478511" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.utest.tasks" />
+      <recent name="co.com.choucair.certification.utest.userinterface" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in co.com.choucair.certification.utest_test">
+    <configuration name="All in co.com.choucair.certification.utest_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.com.choucair.certification.utest_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerTags" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="co.com.choucair.certification.utest_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.choucair.certification.utest.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.choucair.certification.utest.runners" />
+      <option name="MAIN_CLASS_NAME" value="co.com.choucair.certification.utest.runners.RunnerTags" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in co.com.choucair.certification.utest_test" />
+        <item itemvalue="JUnit.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="947141e6-8d77-42b9-b288-37cf544487be" name="Default Changelist" comment="" />
+      <created>1613518816139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613518816139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 22m 20s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 24m 08s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 24m 46s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 25m 19s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 26m 56s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 27m 23s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 32m 04s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 32m 42s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 33m 37s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 46m 42s.xml">
+      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14630872" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32808024" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32808024" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/dfas" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/gdsg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/FillFormPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/StepOnePage.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestJoinPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/utest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
