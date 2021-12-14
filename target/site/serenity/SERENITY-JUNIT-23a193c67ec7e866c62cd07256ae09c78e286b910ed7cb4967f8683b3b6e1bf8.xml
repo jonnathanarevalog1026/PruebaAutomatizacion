@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Register in Utest" skipped="0" tests="1" time="19.52" timestamp="2021-12-12 04:46:20"><testcase name="Register on the Utest page"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Register in Utest" skipped="0" tests="1" time="8.22" timestamp="2021-12-13 09:59:48"><testcase name="Register on the Utest page"><error message="Field name cannot be empty. Please check the table header." type="cucumber.runtime.CucumberException">Field name cannot be empty. Please check the table header.</error><system-err>Field name cannot be empty. Please check the table header.&#13;
+cucumber.util.FixJava.map(FixJava.java:28)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

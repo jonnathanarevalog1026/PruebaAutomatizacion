@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="947141e6-8d77-42b9-b288-37cf544487be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/model/UtestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/co.com.choucair.certification.utest.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/co.com.choucair.certification.utest_main.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/tasks/Fill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/tasks/Fill.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/userinterface/FillFormPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/co/com/choucair/certification/utest/userinterface/FillFormPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/runners/RunnerTags.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/runners/RunnerTags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/resources/features/utest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/resources/features/utest.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/utest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/utest.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/23a193c67ec7e866c62cd07256ae09c78e286b910ed7cb4967f8683b3b6e1bf8_screenshots.html" afterDir="false" />
@@ -43,7 +50,120 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/utest.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/model/UtestData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestJoinPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,31 +173,32 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/resources/features/utest.feature" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestJoingPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java" />
-        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage2.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp2.java" />
         <option value="$PROJECT_DIR$/serenity.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" />
         <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/model/UtestData.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/utest.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java" />
+        <option value="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
-    <option name="width" value="1349" />
+    <option name="width" value="1350" />
     <option name="height" value="730" />
   </component>
   <component name="ProjectId" id="22BucDFaLHW4tuZJgnRg9FxwdVS" />
@@ -94,16 +215,131 @@
               <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
               <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+              <item name="userinterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utest" type="462c0819:PsiDirectoryNode" />
+              <item name="stepdefinitions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co.com.choucair.certification.utest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prueba Tecnica Utest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639346478511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1639450882562" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -125,7 +361,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in co.com.choucair.certification.utest_test">
+  <component name="RunManager" selected="JUnit.RunnerTags">
+    <configuration name="Scenario: Register on the Utest page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/utest.feature" />
+      <option name="GLUE" value="co.com.choucair.certification.utest.stepdefinitions net.serenitybdd.cucumber.actors" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="co.com.choucair.certification.utest_test" />
+      <option name="NAME_FILTER" value="^Register on the Utest page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Register on the Utest page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Register on the Utest page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All in co.com.choucair.certification.utest_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="co.com.choucair.certification.utest_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -151,10 +406,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Register on the Utest page" />
+      <item itemvalue="JUnit.All in co.com.choucair.certification.utest_test" />
+      <item itemvalue="JUnit.RunnerTags" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in co.com.choucair.certification.utest_test" />
         <item itemvalue="JUnit.RunnerTags" />
+        <item itemvalue="JUnit.All in co.com.choucair.certification.utest_test" />
       </list>
     </recent_temporary>
   </component>
@@ -173,41 +433,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 22m 20s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="Scenario__Register_on_the_Utest_page - 2021.12.13 at 21h 41m 57s.xml">
+      <configuration name="Scenario: Register on the Utest page" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 24m 08s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="Scenario__Register_on_the_Utest_page - 2021.12.13 at 21h 42m 58s.xml">
+      <configuration name="Scenario: Register on the Utest page" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 24m 46s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="Scenario__Register_on_the_Utest_page - 2021.12.13 at 21h 47m 45s.xml">
+      <configuration name="Scenario: Register on the Utest page" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 25m 19s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 48m 20s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 26m 56s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 49m 20s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 27m 23s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 49m 45s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 32m 04s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 53m 17s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 32m 42s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 53m 50s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 33m 37s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 56m 44s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_co_com_choucair_certification_utest_test - 2021.12.12 at 16h 46m 42s.xml">
-      <configuration name="All in co.com.choucair.certification.utest_test" configurationId="JUnit" />
+    <history-entry file="RunnerTags - 2021.12.13 at 21h 59m 59s.xml">
+      <configuration name="RunnerTags" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14630872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -249,37 +509,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/location.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/location.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp2.java" />
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/UtestPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -296,41 +559,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Join.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/model/UtestData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/OpenUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/utest.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/userinterface/FillFormPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/utest.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -339,8 +617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/runners/RunnerTags.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -349,18 +627,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/co/com/choucair/certification/utest/stepdefinitions/UtestStepDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/co/com/choucair/certification/utest/tasks/Fill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="514">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

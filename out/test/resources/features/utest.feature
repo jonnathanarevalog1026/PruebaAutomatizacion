@@ -6,4 +6,6 @@ Feature: Register in Utest
   Scenario: Register on the Utest page
     Given Jonathan wants to register on the UTest page.
     When you fill out the registration form.
+      |strName ||strLastName||strEmail|
+
     Then register on the page.
